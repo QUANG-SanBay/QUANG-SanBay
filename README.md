@@ -54,10 +54,10 @@
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=QUANG-SanBay&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=0078d4&text_color=c9d1d9&icon_color=0078d4&border_color=1f2937" alt="GitHub Stats" width="100%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QUANG-SanBay&theme=tokyonight" alt="GitHub Stats" width="100%"/>
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QUANG-SanBay&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=0078d4&text_color=c9d1d9&border_color=1f2937" alt="Top Languages" width="100%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QUANG-SanBay&theme=tokyonight" alt="Top Languages" width="100%"/>
       </td>
     </tr>
     <tr>
