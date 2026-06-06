@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Truong Minh Quang Banner" width="100%">
+  <img src="./assets/banner.png" alt="Truong Minh Quang Banner" width="100%" height="420px" style="object-fit: cover;">
 </div>
 
 <br/>
