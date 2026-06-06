@@ -12,7 +12,7 @@
 
 ### 💫 About Me
 
-- 🎓 Currently a student at **University of Transportation and Communications (UTH)**.
+- 🎓 Currently a student at **University of Transportation HoChiMinh City(UTH)**.
 - 🔭 Focusing on deepening my expertise in **ReactJS**, optimizing web application performance, and designing seamless User Experiences (UX).
 - 🎯 Goal: Become a professional **Frontend Developer** in 1 year and actively contribute to real-world projects.
 - ⚡ Motto:
