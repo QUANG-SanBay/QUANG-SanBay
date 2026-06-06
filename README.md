@@ -1,16 +1,90 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/banner.png" alt="Truong Minh Quang Banner" width="100%">
+</div>
 
-<!--
-**QUANG-SanBay/QUANG-SanBay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h1>Hi there, I'm Truong Minh Quang 👋</h1>
+  <p><strong>Frontend Developer | ReactJS & Web Performance Enthusiast</strong></p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+### 💫 About Me
+
+- 🎓 Currently a student at **University of Transportation and Communications (UTH)**.
+- 🔭 Focusing on deepening my expertise in **ReactJS**, optimizing web application performance, and designing seamless User Experiences (UX).
+- 🎯 Goal: Become a professional **Frontend Developer** in 1 year and actively contribute to real-world projects.
+- ⚡ Motto:
+  > *"If it runs, that's good; if it's optimized, that's top-tier"*
+
+---
+
+### 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🚀 Core Technologies</h4>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+      <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /></a>
+      <br/>
+      <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" /></a>
+      <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /></a>
+      <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+      <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+    </td>
+    <td valign="top" width="50%">
+      <h4>📚 Learning & Researching</h4>
+      <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
+      <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /></a>
+      <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+      <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=QUANG-SanBay&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=0078d4&text_color=c9d1d9&icon_color=0078d4&border_color=1f2937" alt="GitHub Stats" width="100%"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QUANG-SanBay&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=0078d4&text_color=c9d1d9&border_color=1f2937" alt="Top Languages" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=QUANG-SanBay&theme=tokyonight&background=0d1117&fire=0078d4&ring=0078d4&stroke=1f2937&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📞 Connect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-minh-quang-3939313b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:quangsanbay@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+<div align="center">
+  <sub>Thank you for visiting my profile! Have a wonderful day! 😊</sub>
+</div>
