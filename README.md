@@ -5,16 +5,16 @@
 
 <div align="center">
   <h1>Hi there, I'm Truong Minh Quang 👋</h1>
-  <p><strong>Frontend Developer | ReactJS & Web Performance Enthusiast</strong></p>
+  <p><strong>Frontend Developer</strong></p>
 </div>
 
 <hr />
 
 ### 💫 About Me
 
-- 🎓 Currently a student at **University of Transportation HoChiMinh City(UTH)**.
+- 🎓 Currently a student at **University of Transportation Ho Chi Minh City(UTH)**.
 - 🔭 Focusing on deepening my expertise in **ReactJS**, optimizing web application performance, and designing seamless User Experiences (UX).
-- 🎯 Goal: Become a professional **Frontend Developer** in 1 year and actively contribute to real-world projects.
+- 🎯 Goal: Become a highly proficient Frontend Developer within the next year, contributing to real-world projects, with a long-term vision of evolving into a Frontend Engineer Lead.
 - ⚡ Motto:
   > *"If it runs, that's good; if it's optimized, that's top-tier"*
 
@@ -40,6 +40,8 @@
       <h4>📚 Learning & Researching</h4>
       <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
       <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /></a>
+      <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+      <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
       <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
     </td>
   </tr>
@@ -67,11 +69,11 @@
 ### 📞 Connect with me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-minh-quang-3939313b9/" target="_blank">
+  <a href="https://www.linkedin.com/in/tm-quang-dev05" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:quangsanbay@gmail.com">
+  <a href="mailto:truongminhquang.dev05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
