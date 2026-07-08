@@ -34,14 +34,13 @@
       <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" /></a>
       <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /></a>
       <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-      <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+      <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
     </td>
     <td valign="top" width="50%">
       <h4>📚 Learning & Researching</h4>
       <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
       <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /></a>
       <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-      <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
     </td>
   </tr>
 </table>
@@ -58,12 +57,6 @@
       </td>
       <td align="center" width="41.16%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QUANG-SanBay&theme=tokyonight" alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QUANG-SanBay&theme=tokyonight" alt="GitHub Stats" width="100%"/>
       </td>
     </tr>
   </table>
