@@ -22,7 +22,7 @@
 
 ### 🛠️ Tech Stack
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="50%">
       <h4>🚀 Core Technologies</h4>
