@@ -55,10 +55,10 @@
   <table border="0">
     <tr>
       <td align="center" width="59.84%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=QUANG-SanBay&theme=tokyonight&background=0d1117&fire=0078d4&ring=0078d4&stroke=1f2937&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmquang-dev&theme=tokyonight&background=0d1117&fire=0078d4&ring=0078d4&stroke=1f2937&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="100%" />
       </td>
       <td align="center" width="41.16%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QUANG-SanBay&theme=tokyonight" alt="Top Languages" width="100%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tmquang-dev&theme=tokyonight" alt="Top Languages" width="100%"/>
       </td>
     </tr>
   </table>
